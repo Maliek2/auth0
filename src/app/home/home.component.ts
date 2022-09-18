@@ -14,7 +14,7 @@ export class HomeComponent {
 
   signup() {
     window.open(
-      "https://auth0.com/signup?utm_source=stackblitz&utm_medium=devsponsor&utm_campaign=stackblitz-angular",
+      "https://mobile.adball.tech",
       "_blank"
     );
   }
